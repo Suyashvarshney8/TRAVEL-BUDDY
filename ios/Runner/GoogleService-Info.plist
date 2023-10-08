@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>273596266688-opa7e99kcrq7biog1gpbs8tah5pda8c0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.273596266688-opa7e99kcrq7biog1gpbs8tah5pda8c0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-Y5sEHuh7icYMjnAM-odyDcFfHnygMpk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>273596266688</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cp301</string>
+	<key>PROJECT_ID</key>
+	<string>carpool-app-2f85d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carpool-app-2f85d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:273596266688:ios:3497c4a34ed2dc5f151525</string>
+	<key>DATABASE_URL</key>
+	<string>https://carpool-app-2f85d-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
